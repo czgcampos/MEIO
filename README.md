@@ -1,5 +1,5 @@
 # MEIO
-[17-18] Modelos Estocásticos de Investigação Operacional [MIEINF]
+Modelos Estocásticos de Investigação Operacional
 
 Unidade curricular do Mestrado Integrado em Engenharia Informática
 
